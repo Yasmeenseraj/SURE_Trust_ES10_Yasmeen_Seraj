@@ -1,8 +1,5 @@
 #include <IRremote.h>
 
-
-
-
 int reciver =13;
 void setup()
 {
